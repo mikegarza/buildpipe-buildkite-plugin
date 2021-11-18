@@ -1,5 +1,11 @@
 # Changelog
 
+0.10.1 (mikegarza)
+-----------------
+
+1. Using Darwin
+2. Custom project label inteprolation
+
 0.10.0 (boyntoni)
 -----------------
 
